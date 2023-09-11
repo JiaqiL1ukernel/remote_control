@@ -16,7 +16,7 @@ CWinApp theApp;
 
 using namespace std;
 
-int main()
+int main()  
 {
     int nRetCode = 0;
 
